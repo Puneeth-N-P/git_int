@@ -5,3 +5,6 @@ comment1
 this is comment 2
 after cloning
 before fetching
+this is  comment 3 
+after fetching
+before pushing
